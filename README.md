@@ -5,7 +5,7 @@ For å åpne Jupyter Notebook-filen trenger du en enten en kompatibel programvar
 Nedenfor følger anbefalinger for åpning av Jupyter Notebook-filen.
 
 Anbefaling alternativ 1:
-Last ned og installer Jupyter Notebook på din lokale maskin ved bruk av pip install: pip install jupyterlab
+Last ned og installer Jupyter Notebook på din lokale maskin ved bruk av pip install: pip install notebook
 
 Anbefaling alternativ 2:
 Last ned og installer Anaconda  på din lokale maskin og benytt Anaconda til å lese kjøre Jupyter Notebook: https://www.anaconda.com/download
