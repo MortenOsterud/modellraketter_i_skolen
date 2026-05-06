@@ -1,5 +1,5 @@
 Dette prosjektet er en del av en masteroppgave skrevet av Morten Østerud Larsen som student ved OsloMet - Storbyuniversitetet.
-Prosjektet inkluderer en lærerveiledning for digitale sikkerhetsberegninger som en Jupyter Notebook-fil ved med navnet "260110 veiledning for digitale sikkerhetsberegninger.ipynb"
+Prosjektet inkluderer en lærerveiledning for digitale sikkerhetsberegninger som en Jupyter Notebook-fil ved med navnet "260506 veiledning for digitale sikkerhetsberegninger.ipynb"
 For å åpne Jupyter Notebook-filen trenger du en enten en kompatibel programvare eller et online redigeringsverktøy for Jupyter Notebook. 
 Nedenfor følger anbefalinger for åpning av Jupyter Notebook-filen.
 Anbefaling alternativ 1:
