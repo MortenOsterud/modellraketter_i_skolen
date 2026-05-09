@@ -5,10 +5,11 @@ For å åpne Jupyter Notebook-filen trenger du en enten en kompatibel programvar
 Nedenfor følger anbefalinger for åpning av Jupyter Notebook-filen.
 
 Anbefaling alternativ 1:
-Last ned og installer Jupyter Notebook på din lokale maskin ved bruk av pip install: pip install notebook
+Bruk lenken nedenfor til å åpne lærerveiledningen i en virtuell maskin satt opp gjennom Mybinder:
+https://mybinder.org/v2/gh/MortenOsterud/modellraketter_i_skolen/HEAD?urlpath=%2Fdoc%2Ftree%2F260506+veiledning+for+digitale+sikkerhetsberegninger.ipynb
 
 Anbefaling alternativ 2:
-Last ned og installer Anaconda  på din lokale maskin og benytt Anaconda til å lese kjøre Jupyter Notebook: https://www.anaconda.com/download
+Last ned og installer Anaconda på din lokale maskin og benytt Anaconda til å lese kjøre Jupyter Notebook: https://www.anaconda.com/download
 
 Anbefaling alternativ 3:
 Benytt Google Colab til å åpne og kjøre Jupyter Notebook-filen uten installasjon (krever google-konto): https://colab.research.google.com/
@@ -16,3 +17,5 @@ Benytt Google Colab til å åpne og kjøre Jupyter Notebook-filen uten installas
 Anbefaling alternativ 4:
 Benytt Try Jupyter til å åpne og kjøre Jupyter Notebook-filen filen uten installasjon https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb
 
+Anbefaling alternativ 5:
+Last ned og installer Jupyter Notebook på din lokale maskin ved bruk av pip install: pip install notebook
